@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate About Technology and Innovation</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komalborghare" alt="komalborghare" /></a> </p>
 
-- 🌱 I’m currently learning **B.tech 2nd year IT**
+- 🌱 I’m currently learning **B.tech 3rd year IT**
 
 - 💬 Ask me about **Hey, I’m Komal Borghare and I am currently pursuing in my [ B.Tech in Information Technology] at [TGPCET]. Passionate about technology and problem-solving, I enjoy learning new concepts and applying them through hands-on projects, coding challenges, and teamwork. I believe in continuous learning and personal growth.✨🎖️**
 
