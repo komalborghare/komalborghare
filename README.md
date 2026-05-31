@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Komal Borghare</h1>
-<h3 align="center">💻 Aspiring Software Developer | Java & C++ Learner</h3>
+<h3 align="center">💻 Aspiring Software Developer | Currently learning java | Expanding into other programming languages</h3>
 
 ---
 
 ### 🚀 About Me
 - 🎓 B.Tech IT (3rd Year)
-- 💻 Currently learning Java & C++
+- 💻 Currently learning Java 
 - 🚀 Building projects to improve my skills
 - 🧠 Interested in problem-solving & development
 
@@ -17,8 +17,8 @@
 ---
 
 ### 🛠 Languages and Tools
-- 💻 Languages: C, HTML, JAVA ,SQL 
-- 🛠 Tools: Git, GitHub, VS Code ,
+- 💻 Languages: C,  JAVA ,SQL 
+- 🛠 Tools: Git, GitHub, VS Code , intellij ,Postgre sql
 
 ---
 
